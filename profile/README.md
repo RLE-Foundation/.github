@@ -10,7 +10,6 @@ Explore more details on our [website](https://rlevolution.org/).
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rle-foundation&repo=eric&show_owner=false)](https://github.com/RLE-Foundation/ERIC)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rle-foundation&repo=rlexplore&show_owner=false)](https://github.com/RLE-Foundation/RLeXplore)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rle-foundation&repo=Plasticine&show_owner=false)](https://github.com/RLE-Foundation/Plasticine)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rle-foundation&repo=rllte&show_owner=false)](https://github.com/RLE-Foundation/rllte)
